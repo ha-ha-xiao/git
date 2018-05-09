@@ -1,6 +1,3 @@
 the first test
 line 2
 just a test for github
-
-the final change of this turn
-modified by debian user
